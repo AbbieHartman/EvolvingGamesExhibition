@@ -1,39 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 0,
-      "end_time": 29,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Ancient Sumeria was a collection of city-states, each run by its own king, in the area of South-Central Iraq. Sumeria is also known for developing the earliest form of writing, cunieform, which Finkle has studied extensively"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Historical context"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Sumeria"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Finkle"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Context"
-        }
-      ],
-      "uuid": "e5a005fc-9af6-45f7-b2fc-25c72ed4b237"
-    },
-    {
       "start_time": 60,
       "end_time": 74,
       "annotation": [
