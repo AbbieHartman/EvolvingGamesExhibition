@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "The Royal Game of Ur",
+  "parent": "46da6f39-be47-43b0-93b8-801650c713b0",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "the-royal-game-of-ur",
+  "created_at": "2026-06-18T17:33:00.225Z",
+  "created_by": "Aheartgirl",
+  "updated_at": "2026-06-18T17:33:00.225Z",
+  "updated_by": "Aheartgirl"
+}
