@@ -65,35 +65,6 @@
         }
       ],
       "uuid": "01aec05a-b2be-4dd3-846c-e46e2381cda8"
-    },
-    {
-      "start_time": 106,
-      "end_time": 151,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The British Museum's catalogue entry for the original object can be found here: https://www.britishmuseum.org/collection/object/W_1928-1009-378"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Historical context"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "object"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "museum"
-        }
-      ],
-      "uuid": "e43a943a-1e3d-42e7-aa26-73c9363b6eb2"
     }
   ],
   "set": "Default",
