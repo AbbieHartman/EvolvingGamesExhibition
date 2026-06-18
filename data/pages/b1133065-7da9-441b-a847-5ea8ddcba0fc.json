@@ -19,7 +19,57 @@
           "italic": true
         },
         {
-          "text": "is one of the earliest games attested in the archaeological record. "
+          "text": "is one of the earliest games attested in the archaeological record. Unlike the other games in this project, this was not what the game was originally called. The name itself refers to the excavation site: the Royal cemetery at Ur. Ur itself was an ancient Sumerian coastal city near the mouth of the Euphrates, located at the site of modern Tell el-Muqayyar in Dhi Qar Governorate, Iraq."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The version of the game discussed in the below video is based on a version of the "
+        },
+        {
+          "text": "Royal Game of Ur",
+          "italic": true
+        },
+        {
+          "text": " excavated in the 1920s and sold to the British Museum."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Irving Finkel, also in the video below, spent years trying to find out the rules for the "
+        },
+        {
+          "text": "Royal Game of Ur",
+          "italic": true
+        },
+        {
+          "text": ". Although no text has been found describing the base game, a cuneiform has been located that describes an adapted, or advanced, version of gameplay. Finkel has since used this as a basis to extrapolate the base rules. His justification for the rules used in the video below can be "
+        },
+        {
+          "text": "found here.",
+          "link": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://genjam.org/wp-content/uploads/2021/09/onrules4gameofur.pdf"
         }
       ]
     },
@@ -58,7 +108,28 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "More recent research has attempted to make digital versions of this game in order to better share it with the general public. The online version of the "
+        },
+        {
+          "text": "Royal Game of Ur ",
+          "italic": true
+        },
+        {
+          "text": "can be played "
+        },
+        {
+          "text": "here",
+          "link": "https://royalur.net/game?mode=computer&rules=finkel&bot=easy&tab=rules"
+        },
+        {
+          "text": ", and includes a \"Finkel\" rule version as well as more complex adaptations. More than anything else, the academic and outreach work done on the "
+        },
+        {
+          "text": "Royal Game of Ur",
+          "italic": true
+        },
+        {
+          "text": " reflects a deep dedication to and passion for ancient gaming."
         }
       ]
     }
@@ -72,6 +143,6 @@
   "slug": "the-royal-game-of-ur",
   "created_at": "2026-06-18T17:33:00.225Z",
   "created_by": "Aheartgirl",
-  "updated_at": "2026-06-18T17:44:00.566Z",
-  "updated_by": "Aheartgirl"
+  "updated_at": "2026-06-18T18:00:37.142Z",
+  "updated_by": "AbbieHartman"
 }
