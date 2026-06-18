@@ -1,39 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 60,
-      "end_time": 74,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Dr Irving Finkel is Assistant Keeper of the Ancient Mesopotamian script, languages and cultures department at the British Museum. This tone of joke is characteristic of Finkle."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Finkle"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "scholars"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "historians"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Joke"
-        }
-      ],
-      "uuid": "01aec05a-b2be-4dd3-846c-e46e2381cda8"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "6259755f-7e97-4f63-80f0-9c2143880647",
   "source_id": "bd5d46c1-1773-4512-8c41-67d1461070f7"
